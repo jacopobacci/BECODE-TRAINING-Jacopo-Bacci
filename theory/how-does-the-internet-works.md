@@ -20,3 +20,7 @@ Anywhere to or more parts of the internet intersect there's a piece of equipment
 Every time you visit a website, up to 15 routers may help your packets find their way to and from your computer.
 
 Every time the packet reaches a new router another layer is added until it reaches the server. Then, when the server send back information, it creates packets with an identical wrapping. As the packet makes its way back each router unwraps a layer, to discover where to send the packet next, until it reaches your computer.
+
+
+
+***:dizzy: THIS FILE AS BEEN REVIEW BY AYRA STELMASZEWSKI :dizzy:***
